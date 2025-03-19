@@ -8,8 +8,8 @@ Projekt típusa: Scratch játék
 Hogyan használd:
 
   Töltsd le a "FitT-Rex - Virga-Nagy Anna Veronika.sb3" file-t. 
-  Nyisd meg a scratch weboldalát https://scratch.mit.edu/ 
-  Importáld a projektet 
+  Nyisd meg a scratch weboldalát https://scratch.mit.edu/. 
+  Importáld a projektet.
   Indítsd el a játékot!
 
 A játék leírása:
