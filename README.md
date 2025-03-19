@@ -13,6 +13,7 @@ Hogyan használd:
   Indítsd el a játékot!
 
 A játék leírása:
+
 A dínódat a bal / jobb / fel / le nyilak megnyomásával tudod irányítani, a cél, hogy a megjelenő ételek közül az egészségesekkel etesd a túlélése érdekében, ehhez 10 pontot kell gyűjtened. Ellenkező esetben elfogynak az életeid és a dínód kihal. 
 
 Képek:
