@@ -7,13 +7,10 @@ Projekt típusa: Scratch játék
 
 Hogyan használd:
 
- Töltsd le a "FitT-Rex - Virga-Nagy Anna Veronika.sb3" file-t.
- 
- Nyisd meg a scratch weboldalát https://scratch.mit.edu/
- 
- Importáld a projektet 
- 
- Indítsd el a játékot!
+  Töltsd le a "FitT-Rex - Virga-Nagy Anna Veronika.sb3" file-t. 
+  Nyisd meg a scratch weboldalát https://scratch.mit.edu/ 
+  Importáld a projektet 
+  Indítsd el a játékot!
 
 A játék leírása:
 A dínódat a bal / jobb / fel / le nyilak megnyomásával tudod irányítani, a cél, hogy a megjelenő ételek közül az egészségesekkel etesd a túlélése érdekében, ehhez 10 pontot kell gyűjtened. Ellenkező esetben elfogynak az életeid és a dínód kihal. 
