@@ -12,6 +12,8 @@ Hogyan használd:
   Importáld a projektet.
   Indítsd el a játékot!
 
+  Vagy kattints az alábbi linkre a játék eléréséhez: https://scratch.mit.edu/projects/1144524265
+  
 A játék leírása:
 
 A dínódat a bal / jobb / fel / le nyilak megnyomásával tudod irányítani, a cél, hogy a megjelenő ételek közül az egészségesekkel etesd a túlélése érdekében, ehhez 10 pontot kell gyűjtened. Ellenkező esetben elfogynak az életeid és a dínód kihal. 
@@ -23,3 +25,6 @@ Képek:
 Megjegyzés:
 A játék tartalmaz hanghatásokat, illetve több sprite-ot is.
 A játék programjában változók, ciklusok és feltételek kerültek felhasználásra.
+
+Kapcsolat:
+nannaveronika@gmail.com
